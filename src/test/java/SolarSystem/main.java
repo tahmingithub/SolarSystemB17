@@ -17,11 +17,24 @@ public class main {
         sun.color="black";
         sun.temp="1234555";
 
+
         // Planet 2
 
         Planet2 xaros= new Planet2();
         xaros.name="nehe";
         xaros.color="blue";
+
+        //  planet1
+
+        Planet1 plato=new Planet1();
+        plato.color="green";
+        plato.name="abbaa";
+        plato.temp="10000";
+        plato.radius="8900";
+        
+
+
+
 
     }
 }
